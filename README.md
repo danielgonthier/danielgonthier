@@ -19,7 +19,7 @@ Commencing **Master of Data Science / AI in Australia, 2026**.
 ## Background
 
 - **Audio engineering** — DSP, acoustics, electronics, audio programming. Sound Engineer trained at Universidad de Chile (B.A. 2014–2018).
-- **ML research (2018)** — Co-authored **two conference presentations** at Universidad de Chile: voice pathology detection (Jornadas de Investigación en Sonido, Foro de las Artes 2018) and isofónic-curve echo compensation (Congreso Internacional de Sonido INACAP 2018, AES-recognised event). Synthetic glottal-pulse dataset (2,338 signals), 4 DSP-derived features, 5-classifier benchmark — best model SVM Cubic, **97.9% accuracy / AUC 0.96** on test set.
+- **ML research (2018)** — Co-authored **two conference presentations** at Universidad de Chile: voice pathology detection (Jornadas de Investigación en Sonido, Foro de las Artes 2018) and echo compensation based on equal-loudness contours (Congreso Internacional de Sonido INACAP 2018, AES-recognised event). Synthetic glottal-pulse dataset (2,338 signals), 4 DSP-derived features, 5-classifier benchmark — best model SVM Cubic, **97.9% accuracy / AUC 0.96** on test set.
 - **Mathematics teaching (2012 – present)** — Taught calculus, linear algebra, statistics, and optimization to 200+ students over 14 years. Same mathematical foundations underlying modern ML.
 - **Now (2026)** — Building voice ML projects in parallel with starting Master of Data Science / AI in Australia. Targeting roles in Audio ML, Speech ML, signal processing, and applied ML.
 
