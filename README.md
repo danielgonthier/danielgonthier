@@ -1,29 +1,49 @@
-# Daniel Gonthier — Audio AI Engineer
+# Daniel Gonthier
 
-I work where audio engineering meets machine learning.
-Sound Engineer (Universidad de Chile, 2018) · 14 years teaching the math behind ML · Stanford Machine Learning (2023).
+**Audio Engineer · Applied ML · Biomedical Voice Research**
 
-**Building at the intersection of DSP, mathematics, and AI.**
+I work at the intersection of digital signal processing and machine learning, with a focus on audio and speech.
+
+Sound Engineer (Universidad de Chile, 2018) with prior research experience in biomedical voice pathology detection — collaboration with the **Vocal Hyperfunction Clinical Research Center (MGH / Harvard)**. **14 years teaching** the mathematics behind machine learning (calculus, linear algebra, statistics, optimization) to **200+ university and pre-university students**.
+
+Commencing **Master of Data Science / AI in Australia, 2026**.
 
 ---
 
 ## What I'm working on
 
-- 🎙️ **`polyglot`** — personal voice cloning + multilingual pronunciation coach in EN · ES · FR (in progress)
-- 📓 **`math-behind-ml`** — interactive notebook series teaching the linear algebra, calculus, statistics, and optimization underlying modern ML, written by someone who has taught the math for 14 years
-- 🔊 **`dsp-for-ml-engineers`** — short notebook lessons covering DSP fundamentals (STFT, filtering, mel-spectrograms, MFCCs, source separation primitives) for ML engineers entering audio
+🎙️ **[voice-clone-demo](https://github.com/danielgonthier/voice-clone-demo)** *(in progress)* — Web app for personal voice cloning + multilingual synthesis. User uploads ~30s of voice; system synthesizes text in 5–6 languages with cloned voice. Public demo on HuggingFace Spaces. Stack: Python · Gradio · XTTS-v2 / F5-TTS · PyTorch · HuggingFace.
 
-## Stack
-
-`Python` · `PyTorch` · `Librosa` · `NumPy` · `SciPy` · `HuggingFace Transformers` · `Whisper` · `XTTS` · `Gradio`
+---
 
 ## Background
 
-Sound engineer trained at Universidad de Chile (DSP, acoustics, electronics, audio programming). Spent the last 14 years teaching calculus, linear algebra, statistics, and optimization to 200+ students — the exact mathematics modern ML rests on. In 2023 I formalized the move into ML (Stanford Machine Learning, Andrew Ng) and have since been working at the intersection of audio engineering and machine learning. Native trilingual: Spanish · French · English.
+- **Audio engineering** — DSP, acoustics, electronics, audio programming. Sound Engineer trained at Universidad de Chile (B.A. 2014–2018).
+- **ML research (2018)** — Co-authored research manuscript on voice pathology detection: synthetic glottal-pulse dataset (2,338 signals, Rosenberg model), 4 DSP-derived features (formant ripple, flat closed-phase, phase-plane), benchmarked 5 supervised classifiers + feed-forward NN. Best model: SVM Cubic, **97.9% accuracy / AUC 0.96** on test set. Reviewed by ML panel including J. P. Cortés (M.Sc. EE, UCLA · AC3E).
+- **Mathematics teaching (2012 – present)** — Taught calculus, linear algebra, statistics, and optimization to 200+ students over 14 years. Same mathematical foundations underlying modern ML.
+- **Now (2026)** — Building voice ML projects in parallel with starting Master of Data Science / AI in Australia. Targeting roles in Audio ML, Speech ML, signal processing, and applied ML.
 
-## Open to
+---
 
-Audio AI roles — full-time, freelance, or research collaborations.
-EU-focused: Spain · France · Switzerland. Remote-first; open to relocation.
+## Stack
 
-📩 daniel@danielgonthier.com · 🔗 [LinkedIn](https://linkedin.com/in/danielgonthier)
+**Languages**: Python (intermediate) · MATLAB (advanced) · SQL · LaTeX (advanced) · JavaScript · Bash
+**ML / DSP**: scikit-learn · NumPy · pandas · supervised classification · NNs · k-fold CV · feature engineering · FFT & spectral analysis · glottal modelling · inverse filtering · source-filter modelling
+**Audio & tooling**: acoustics · psychoacoustics · electroacoustic measurement · studio recording · Git · Jupyter · VS Code · Linux · Overleaf · Zotero · Claude Code · Copilot · Cursor
+**Currently learning**: PyTorch · HuggingFace Transformers · Whisper · XTTS · Docker
+
+---
+
+## Languages
+
+🇪🇸 Spanish (native) · 🇬🇧 English (C1, advanced professional)
+
+---
+
+## Currently
+
+📍 Sydney / Gold Coast, Australia — visa 462 → 500 → 485 (post-study work)
+📩 daniel@danielgonthier.com
+🔗 [LinkedIn](https://linkedin.com/in/danielgonthier)
+
+Open to **Audio ML / Speech ML / Applied ML roles** — Australia-focused, full-time after Master's (2027–28). Open to research collaborations and internships meanwhile.
