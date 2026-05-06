@@ -12,7 +12,7 @@ Commencing **Master of Data Science / AI in Australia, 2026**.
 
 ## What I'm working on
 
-🎙️ **[voice-clone-demo](https://github.com/danielgonthier/voice-clone-demo)** *(in progress)* — Web app for personal voice cloning + multilingual synthesis. User uploads ~30s of voice; system synthesizes text in 5–6 languages with cloned voice. Public demo on HuggingFace Spaces. Stack: Python · Gradio · XTTS-v2 / F5-TTS · PyTorch · HuggingFace.
+🎙️ **[voice-clone-demo](https://github.com/danielgonthier/voice-clone-demo)** *(in progress)* — Web app for personal voice cloning + multilingual synthesis. User uploads ~30s of voice; system synthesizes text in 5–6 languages with cloned voice. Public demo on HuggingFace Spaces. Stack: Python · Gradio · Chatterbox Multilingual · PyTorch · HuggingFace.
 
 ---
 
